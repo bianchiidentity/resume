@@ -5,10 +5,10 @@
 |key|value|
 |---|-----|
 |Name|川﨑浩史(Kouji Kawasaki)|
-|Blog|[BLOG](https://bianchiidentity.hatenablog.com/)|
 |Twitter|[@bianchiidentity](https://twitter.com/bianchiidentity)|
 |Qiita|[kawasakikou](https://qiita.com/kawasakikou)|
 |Zenn|[bianchiidentity](https://zenn.dev/bianchi)|
+|Blog|[BLOG](https://bianchiidentity.hatenablog.com/)|
 |StackOverflow|[Kouji Kawasaki](https://stackoverflow.com/users/8363057/kouji-kawasaki)|
 
 # 職務経歴
