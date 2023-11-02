@@ -184,18 +184,18 @@ PLCへの命令を行うライブラリがpythonのモジュールとして実�
 graphqlが流行り始めたころでしたので、queryとmutationの設計が難しかった覚えがあります。テストもsnapshot形式だったので記憶に残っています。
 
 【担当フェーズ】
-モデル設計、機能実装
-GraphQL api エンドポイント設計
-GCEインフラ構築
+- モデル設計、機能実装
+- GraphQL api エンドポイント設計
+- GCEインフラ構築
 
 【技術選定】
-Django
-GraphQL(graphene-django)
-docker-compose
-PostgreSQL
-Nginx
-Firebase Authentication
-GCE
+- Django
+- GraphQL(graphene-django)
+- docker-compose
+- PostgreSQL
+- Nginx
+- Firebase Authentication
+- GCE
 
 -----
 
@@ -223,7 +223,7 @@ AWS(ECS)インフラ構築
 ほぼ全ての銀行に対応してあるのですが、テスト用アカウントがない事も多く、お客様の実行した時にログとして保存されるスナップHTMLのみから推測して修正を行う必要があった点が大変でした。
 
 【使用技術】
-Ruby
+- Ruby
 
 -----
 
@@ -235,9 +235,9 @@ Ruby
 またインフラをメイン担当一人でAWS上にterraformを用いて構築しました。
 
 【技術選定】
-electron
-TypeScript
-AWS(ECS)
-TerraForm
+- electron
+- TypeScript
+- AWS(ECS)
+- TerraForm
 
 -----
